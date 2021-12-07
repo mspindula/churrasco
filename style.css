@@ -16,14 +16,14 @@ input {
   margin-bottom: 10px;
 }
 .fundo {
-  background-image: url("../Imagens/pic.jpg");
+  background-image: url("./pic.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 .image {
   width: 200px;
   height: 200px;
-  background-image: url("..//Imagens/barb.jpg");
+  background-image: url("./barb.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
