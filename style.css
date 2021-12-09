@@ -29,7 +29,7 @@ input {
 }
 
 body{
-  background-image: url("..//Imagens/pic.jpg");
+  background-image: url("../Imagens/pic.jpg");
   display:block;
   background-repeat: no-repeat;
   background-size: cover;
